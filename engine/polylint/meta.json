@@ -5,10 +5,7 @@
     "url": "https://github.com/PolymerLabs/polylint",
     "languages": [
         "HTML",
-        "JavaScript" 
-    ],
-    "configs": [
-        ".json"
+        "JavaScript"
     ],
     "license": "BSD-3-Clause"
 }

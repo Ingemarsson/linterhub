@@ -12,7 +12,10 @@
         "composer",
         "npm",
         "pip",
-        "yarn"
+        "yarn",
+        "gem",
+        "pacman",
+        "chocolatey"
     ],
     "additionalItems": false
 }
